@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Apr 20 12:08:57 IST 2016
+2374ba046b6a971db97742f9694a44edb3894cc4@10.237.6.40\:3128>default-http\://repo1.maven.org/maven2/.lastUpdated=1461134337788
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:${slf4j.version} from/to central (http\://repo1.maven.org/maven2)\: Illegal character in path at index 51\: http\://repo1.maven.org/maven2/org/slf4j/slf4j-api/${slf4j.version}/slf4j-api-${slf4j.version}.pom
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:${slf4j.version} from/to eclipselink (http\://download.eclipse.org/rt/eclipselink/maven.repo/)\: Illegal character in path at index 75\: http\://download.eclipse.org/rt/eclipselink/maven.repo/org/slf4j/slf4j-api/${slf4j.version}/slf4j-api-${slf4j.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:${slf4j.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 57\: http\://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/${slf4j.version}/slf4j-api-${slf4j.version}.pom
+2374ba046b6a971db97742f9694a44edb3894cc4@10.237.6.40\:3128>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1461134287525
+2374ba046b6a971db97742f9694a44edb3894cc4@10.237.6.40\:3128>default-http\://download.eclipse.org/rt/eclipselink/maven.repo/.lastUpdated=1461134337780

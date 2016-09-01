@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jun 27 12:58:10 IST 2016
+d5850d2e29e6a462d0860f620e2b2e50ecf9f66b@10.237.6.40\:3128>default-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1467012490885
+d5850d2e29e6a462d0860f620e2b2e50ecf9f66b@10.237.6.40\:3128>default-http\://repo1.maven.org/maven2/.lastUpdated=1467012490875
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:${org.slf4j-version} from/to central (http\://repo1.maven.org/maven2)\: Illegal character in path at index 51\: http\://repo1.maven.org/maven2/org/slf4j/slf4j-api/${org.slf4j-version}/slf4j-api-${org.slf4j-version}.pom
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:${org.slf4j-version} from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public/)\: Illegal character in path at index 77\: http\://repository.jboss.org/nexus/content/groups/public/org/slf4j/slf4j-api/${org.slf4j-version}/slf4j-api-${org.slf4j-version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:${org.slf4j-version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 57\: http\://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/${org.slf4j-version}/slf4j-api-${org.slf4j-version}.pom
+d5850d2e29e6a462d0860f620e2b2e50ecf9f66b@10.237.6.40\:3128>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1467012357120

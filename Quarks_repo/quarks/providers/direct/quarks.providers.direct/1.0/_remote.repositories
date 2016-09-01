@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 29 20:50:15 IST 2016
+quarks.providers.direct-1.0.jar>=
+quarks.providers.direct-1.0.pom>=
