@@ -1,0 +1,44 @@
+mvn install:install-file -Dfile=<path-to-file> ^
+    -DgroupId=<group-id> -DartifactId=<artifact-id> ^
+    -Dversion=<version> -Dpackaging=<packaging>
+	
+Installing maven dependency:
+https://softwarecave.org/2014/06/14/adding-external-jars-into-maven-project/
+	
+	
+
+quarks.api.graph
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.api.graph.jar -DgroupId=quarks.api.graph -DartifactId=quarks.api.graph -Dversion=1.0 -Dpackaging=jar
+
+quarks.api.oplet
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.api.oplet.jar -DgroupId=quarks.api.oplet -DartifactId=quarks.api.oplet -Dversion=1.0 -Dpackaging=jar
+	
+	
+quarks.api.window.jar
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.api.window.jar -DgroupId=quarks.api.window -DartifactId=quarks.api.window -Dversion=1.0 -Dpackaging=jar
+
+quarks.providers.development.jar
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.providers.development.jar -DgroupId=quarks.providers.development -DartifactId=quarks.providers.development -Dversion=1.0 -Dpackaging=jar
+
+quarks.providers.iot.jar
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.providers.iot.jar -DgroupId=quarks.providers.iot -DartifactId=quarks.providers.iot -Dversion=1.0 -Dpackaging=jar
+
+quarks.runtime.appservice.jar
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.runtime.appservice.jar -DgroupId=quarks.runtime.appservice -DartifactId=quarks.runtime.appservice -Dversion=1.0 -Dpackaging=jar
+
+quarks.runtime.etiao.jar
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.runtime.etiao.jar -DgroupId=quarks.runtime.etiao -DartifactId=quarks.runtime.etiao -Dversion=1.0 -Dpackaging=jar
+
+quarks.runtime.jmxcontrol.jar
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.runtime.jmxcontrol.jar -DgroupId=quarks.runtime.jmxcontrol -DartifactId=quarks.runtime.jmxcontrol -Dversion=1.0 -Dpackaging=jar
+
+quarks.runtime.jobregistry.jar
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.runtime.jobregistry.jar -DgroupId=quarks.runtime.jobregistry -DartifactId=quarks.runtime.jobregistry -Dversion=1.0 -Dpackaging=jar
+
+quarks.runtime.jsoncontrol.jar
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.runtime.jsoncontrol.jar -DgroupId=quarks.runtime.jsoncontrol -DartifactId=quarks.runtime.jsoncontrol -Dversion=1.0 -Dpackaging=jar
+
+quarks.spi.graph.jar
+mvn install:install-file -Dfile=D:\apache_quarks\incubator-edgent-master\target\java8\lib\quarks.spi.graph.jar -DgroupId=quarks.spi.graph -DartifactId=quarks.spi.graph -Dversion=1.0 -Dpackaging=jar
+	
+	
